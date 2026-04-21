@@ -26,3 +26,6 @@ To safely inject the advanced statistical cells into the notebook, run the build
 python3 advanced_eda_builder.py
 ```
 Then, open the updated `.ipynb` file in your preferred Jupyter environment (local or Google Colab) and execute "Run All" to render the visualizations.
+
+## Credits
+* **Avinash Sharma**: Implemented early behavioral data fetching and MLP tuning in `avinash_sharma_projectWQ.ipynb`. (WQU team member, avinashhbs@gmail.com)
